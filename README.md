@@ -22,3 +22,7 @@
 كما أن ربط AI بخدمة خارجية يحتاج Backend/API آمن؛ لا تضع مفتاح API سري داخل التطبيق.
 
 القراءات الحالية في هذه النسخة تجريبية وليست من مستشعر طبي حقيقي.
+
+
+## GitHub APK build
+The repository includes a GitHub Actions workflow that builds a release APK automatically.
