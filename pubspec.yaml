@@ -1,0 +1,20 @@
+name: tano
+description: Tano - تطبيق الفحص الدوري والوقاية الذكية.
+publish_to: "none"
+version: 1.1.0+2
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^1.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.2
+
+flutter:
+  uses-material-design: true
